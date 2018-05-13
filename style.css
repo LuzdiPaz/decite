@@ -21,6 +21,17 @@ body {
     margin: 0 auto;
     float: none;
 }
+/* Posiciones */
+.fixed{
+    position: fixed;
+}
+.absolute{
+    position: absolute;
+}
+.relative{
+    position: relative;
+}
+
 /* imágenes*/
 .logo{
     max-width: 100%;
